@@ -18,21 +18,3 @@ const TimeLineProvider = ({ children }) => {
 };
 
 export default TimeLineProvider; 
-
-
-
-
-// import React, { createContext, useState } from 'react';
-
-// const TimeLineContext = createContext();
-//   const[timeLineData, setTimelineData] = useState([]);
-
-// export const TimeLineProvider = ({ children }) => {
-//     const data = {
-//         timeLineData,
-//         setTimelineData,
-//     }
-//     return <TimeLineContext.Provider value={data}>{children}</TimeLineContext.Provider>
-// };
-
-// export default TimeLineProvider;

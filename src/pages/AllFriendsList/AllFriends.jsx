@@ -27,7 +27,8 @@ const AllFriends = () => {
     return (
         <div className='mb-8 mx-auto max-w-7xl px-4'>
             <h2 className='text-3xl font-bold'>Your Friends</h2>
-
+            
+            {/* Loading */}
             {loading ? (
                 <div className='flex justify-center items-center mt-10'>
                     <HashLoader color="#244D3F" />
