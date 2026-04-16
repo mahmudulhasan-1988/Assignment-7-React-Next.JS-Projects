@@ -26,8 +26,8 @@ const TimeLine = () => {
   return (
     <div className="max-w-5xl mx-auto mt-10 px-4">
 
-      <h2 className="text-3xl font-bold mb-6">
-        📅 Timeline
+      <h2 className="text-4xl font-bold mb-6">
+      Timeline
       </h2>
 
       {/* DROPDOWN FILTER  */}

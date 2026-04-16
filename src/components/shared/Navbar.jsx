@@ -3,7 +3,7 @@ import { ImStatsDots } from 'react-icons/im';
 import { IoHomeOutline } from 'react-icons/io5';
 import { RiTimeLine } from 'react-icons/ri';
 import logo from '../../assets/Images/logo.png'
-import { Link, NavLink } from 'react-router';
+import { NavLink } from 'react-router';
 
 
 const Navbar = () => {
