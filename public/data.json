@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim Uddin",
+    "picture": "https://i.pravatar.cc/150?img=12",
+    "email": "rahim.uddin@gmail.com",
+    "days_since_contact": 18,
+    "status": "OVERDUE",
+    "tags": ["COLLEGE", "CLOSE FRIEND"],
+    "bio": "Met during CSE at university.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Sadia Islam",
+    "picture": "https://i.pravatar.cc/150?img=5",
+    "email": "sadia.islam@gmail.com",
+    "days_since_contact": 12,
+    "status": "ALMOST DUE",
+    "tags": ["WORK", "DESIGNER"],
+    "bio": "Former colleague who is very creative in UI/UX design.",
+    "goal": 14,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Hasan",
+    "picture": "https://i.pravatar.cc/150?img=8",
+    "email": "tanvir.hasan@gmail.com",
+    "days_since_contact": 5,
+    "status": "On-Track",
+    "tags": ["GYM", "FRIEND"],
+    "bio": "Gym partner who keeps me motivated.",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 4,
+    "name": "Nusrat Jahan",
+    "picture": "https://i.pravatar.cc/150?img=20",
+    "email": "nusrat.jahan@gmail.com",
+    "days_since_contact": 20,
+    "status": "OVERDUE",
+    "tags": ["SCHOOL ", "BEST FRIEND"],
+    "bio": "School friend who is now a teacher.",
+    "goal": 15,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 5,
+    "name": "Fahim Ahmed",
+    "picture": "https://i.pravatar.cc/150?img=15",
+    "email": "fahim.ahmed@gmail.com",
+    "days_since_contact": 9,
+    "status": "ALMOST DUE",
+    "tags": ["STARTUP", "TECH"],
+    "bio": "STARTUP ENTHUSIAST.",
+    "goal": 12,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 6,
+    "name": "Mehedi Hasan",
+    "picture": "https://i.pravatar.cc/150?img=30",
+    "email": "mehedi.hasan@gmail.com",
+    "days_since_contact": 3,
+    "status": "On-Track",
+    "tags": ["NEIGHBOR"],
+    "bio": "LIVES NEARBY.",
+    "goal": 10,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 7,
+    "name": "Ayesha Rahman",
+    "picture": "https://i.pravatar.cc/150?img=25",
+    "email": "ayesha.rahman@gmail.com",
+    "days_since_contact": 16,
+    "status": "OVERDUE",
+    "tags": ["UNIVERSITY", "RESEARCH"],
+    "bio": "Studied together in university.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 8,
+    "name": "Imran Hossain",
+    "picture": "https://i.pravatar.cc/150?img=18",
+    "email": "imran.hossain@gmail.com",
+    "days_since_contact": 11,
+    "status": "ALMOST DUE",
+    "tags": ["OFFICE", "MANAGER"],
+    "bio": "My previous team lead.",
+    "goal": 14,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 9,
+    "name": "Farzana Akter",
+    "picture": "https://i.pravatar.cc/150?img=32",
+    "email": "farzana.akter@gmail.com",
+    "days_since_contact": 6,
+    "status": "On-Track",
+    "tags": ["FAMILY", "COUSIN"],
+    "bio": "Cousin who is very supportive.",
+    "goal": 10,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 10,
+    "name": "Rakib Chowdhury",
+    "picture": "https://i.pravatar.cc/150?img=10",
+    "email": "rakib.chowdhury@gmail.com",
+    "days_since_contact": 19,
+    "status": "OVERDUE",
+    "tags": ["TRAVEL", "FRIEND"],
+    "bio": "Travel buddy. We have explored several places.",
+    "goal": 14,
+    "next_due_date": "2026-04-09"
+  },
+{
+    "id": 11,
+    "picture": "https://i.pravatar.cc/150?img=7",
+    "email": "rakib.chowdhury@gmail.com",
+    "name": "Shamima Sultana",
+    "days_since_contact": 13,
+    "status": "ALMOST DUE",
+    "tags": ["WORK", "HR"],
+    "bio": "Travel buddy. We have explored several places.",
+    "goal": 14,
+    "next_due_date": "2026-04-09"
+    
+  },
+
+{
+    "id": 12,
+    "picture": "https://i.pravatar.cc/150?img=28",
+    "email": "Jahid Hasan",
+    "name": "Shamima Sultana",
+    "days_since_contact": 4 ,
+    "status": "On-Track",
+    "tags": ["FOOTBALL", "FRIEND"],
+    "bio": "Travel buddy. We have explored several places.",
+    "goal": 14,
+    "next_due_date": "2026-04-09"
+}
+]
