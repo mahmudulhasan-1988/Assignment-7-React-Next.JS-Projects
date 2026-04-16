@@ -1,4 +1,3 @@
-import React from 'react';
 import FriendsKeep from '../../components/banner/FriendsKeep';
 import FriendCount from '../../components/banner/FriendCount/FriendCount';
 import AllFriends from '../AllFriendsList/AllFriends';

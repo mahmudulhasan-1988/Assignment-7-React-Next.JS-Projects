@@ -46,6 +46,12 @@ Each friend is categorized as:
 
 ---
 
+## 📦 Future Improvements
+
+* Add authentication system
+* Connect with real database (MongoDB/Firebase)
+* Add notification/reminder system
+
 ## ⚙️ Setup Instructions
 
 ```bash
@@ -54,7 +60,7 @@ npm run dev
 ```
 
 Then open:
-👉 http://localhost:3000
+👉 Localhost: http://localhost:3000
 
 ---
 
@@ -75,4 +81,5 @@ src/
 Developed by **Mahmudul Hasan**
 
 ---
+
 
