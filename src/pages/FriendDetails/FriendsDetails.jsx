@@ -6,6 +6,9 @@ import { RiDeleteBinLine } from "react-icons/ri";
 import { HashLoader } from "react-spinners";
 import { TimeLineContext } from "../../context/TimeLineContext";
 import { toast } from "react-toastify";
+import logoCall from '../../assets/Images/call.png'
+import logoText from '../../assets/Images/text.png'
+import logoVideo from '../../assets/Images/video.png'
 
 const FriendsDetails = () => {
     const { id } = useParams();
@@ -160,7 +163,7 @@ const FriendsDetails = () => {
                             onClick={() => handleTimeLine("Call")}
                             className="btn py-10 flex flex-col items-center"
                         >
-                            <img src="/src/assets/Images/call.png" alt="" />
+                            <img src={logoCall} alt="" />
                             Call
                         </button>
 
@@ -168,7 +171,7 @@ const FriendsDetails = () => {
                             onClick={() => handleTimeLine("Text")}
                             className="btn py-10 flex flex-col items-center"
                         >
-                            <img src="/src/assets/Images/text.png" alt="" />
+                            <img src={logoText} alt="" />
                             Text
                         </button>
 
@@ -176,7 +179,7 @@ const FriendsDetails = () => {
                             onClick={() => handleTimeLine("Video")}
                             className="btn py-10 flex flex-col items-center"
                         >
-                            <img src="/src/assets/Images/video.png" alt="" />
+                            <img src={logoVideo} alt="" />
                             Video
                         </button>
 
