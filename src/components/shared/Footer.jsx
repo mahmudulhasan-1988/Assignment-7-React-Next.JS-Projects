@@ -1,4 +1,4 @@
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -13,7 +13,7 @@ const Footer = () => {
             </div>
 
             <p className=" text-center text-zinc-400 text-lg mt-4">
-              Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
+              Your personal shelf of meaningful connections. <br /> Browse, tend, and nurture the relationships that matter most.
             </p>
 
           </div>
@@ -38,7 +38,7 @@ const Footer = () => {
           </div>
         </div>
       
-        <div className="mt-16 pt-8 border-t border-zinc-700 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-zinc-500">
+        <div className="mt-16 pt-8 border-t border-gray-400 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-zinc-500">
           <div>© {new Date().getFullYear()} © 2026 Digitools. All rights reserved.</div>
 
           <div className="flex gap-6">

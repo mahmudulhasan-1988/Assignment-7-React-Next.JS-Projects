@@ -14,7 +14,7 @@ const TimeLine = () => {
   const handleDelete = (id) => {
     const updated = timeLineData.filter(item => item.id !== id);
     setTimelineData(updated);
-    toast.warning(`${filteredData.name} Time Line Data is Delete!`);
+    toast.warning(`Timeline Data is Delete!`);
   };
 
   // Filter Logic
@@ -50,7 +50,7 @@ const TimeLine = () => {
       {filteredData.length === 0 ? (
         <div className="shadow-2xl p-6 rounded-xl text-center flex flex-col items-center mb-10">
           <p className=" text-center text-gray-500 text-3xl py-10">
-          <span className="font-bold">No TimeLine Data Yet</span> <br />Please Select Data
+          <span className="font-bold">No Timeline Data Yet</span> <br />Please Select Data
         </p>
 
         </div>
