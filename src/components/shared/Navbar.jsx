@@ -13,7 +13,7 @@ const Navbar = () => {
             <div className="navbar-start">
                 <a className="text-xl"><img src={logo} alt="Logo" /> </a>
             </div>
-
+            {/* Navbar Button */}
             <div className="navbar-end gap-5">
                 <NavLink to={"/"} className={({ isActive }) => isActive ? "btn btn-primary text-white" : "btn"} >
                 <IoHomeOutline />Home

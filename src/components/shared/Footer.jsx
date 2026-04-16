@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className=" bg-[#244D3F] pt-16 pb-10">
       <div className="max-w-7xl mx-auto px-4">
         <div className="">
-         
+         {/* KeenKeeper */}
           <div className="text-center">
             <div className="">
               <h2 className="text-5xl font-bold text-white">KeenKeeper
@@ -20,6 +20,7 @@ const Footer = () => {
           
         </div>
 
+      {/* Social Links */}
         <div>
               <div className="items-center text-center mt-10">
             <h3 className="text-white font-bold mb-6 text-2xl">Social Links</h3>
@@ -37,7 +38,8 @@ const Footer = () => {
 
           </div>
         </div>
-      
+
+      {/* All rights reserved */}
         <div className="mt-16 pt-8 border-t border-gray-400 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-zinc-500">
           <div>© {new Date().getFullYear()} © 2026 Digitools. All rights reserved.</div>
 
