@@ -59,8 +59,10 @@ npm install
 npm run dev
 ```
 
-Then open:
-👉 Localhost: http://localhost:3000
+## ⚙️ Link
+
+* Github Link : https://github.com/mahmudulhasan-1988/Assignment-7-React-Next.JS-Projects
+* Netlify Live Link : https://assignment-7-react-projects.netlify.app/
 
 ---
 
