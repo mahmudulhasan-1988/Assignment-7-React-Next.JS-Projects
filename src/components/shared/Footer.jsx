@@ -25,13 +25,13 @@ const Footer = () => {
               <div className="items-center text-center mt-10">
             <h3 className="text-white font-bold mb-6 text-2xl">Social Links</h3>
             <div className="flex gap-4 text-zinc-400 items-center justify-center">
-              <a href="#" className="hover:text-white transition">
+              <a href="https://www.facebook.com/groups/webdevelopment.ph" target="_blank" className="hover:text-white transition">
                 <FaFacebook size={20} />
               </a>
-              <a href="#" className="hover:text-white transition">
+              <a href="https://x.com/ProgrammingHero" target="_blank" className="hover:text-white transition">
                 <FaTwitter size={20} />
               </a>
-              <a href="#" className="hover:text-white transition">
+              <a href="https://www.instagram.com/programminghero/" target="_blank" className="hover:text-white transition">
                 <FaInstagram size={20} />
               </a>
             </div>
