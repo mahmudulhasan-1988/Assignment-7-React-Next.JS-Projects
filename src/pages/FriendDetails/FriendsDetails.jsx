@@ -43,7 +43,7 @@ const FriendsDetails = () => {
         };
 
         setTimelineData([...timeLineData, newData]);
-        toast.success(`${friend.name} has been added to the Timeline.`);
+        toast.success(`${type} with ${friend.name} added to Timeline`);
 
         navigate("/TimeLine");
     };
